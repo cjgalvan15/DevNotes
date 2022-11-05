@@ -1,0 +1,70 @@
+/********HTML Element CSS ********/
+body
+{
+    background-color:#EDDFB3;
+    
+}
+
+hr
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: none;
+    border-top-style: dotted;
+    border-top-width: 5px;    
+    width: 10%; 
+    color: #CA955C;           
+    
+}
+h1
+{
+    font-size: 80px;
+    color: #357255;
+    font-family: 'Sacramento', cursive;
+    
+}
+h2
+{
+    color: #357255;
+}
+h3
+{
+    color: #357255;
+}
+
+/********Classes********/
+.content
+{
+    margin: 0px 36%;
+}
+.footer
+{
+
+}
+
+/********IDs********/
+#title
+{
+    /*margin-bottom: 0.67em;*/
+   margin-bottom: 0.3em;
+   margin-top: 0.2em;
+}
+#hr-footer
+{
+    margin-bottom: 1px;
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    border-top: 1px solid black;
+    width: 100%;
+    
+    /*
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    border-top: 1px solid #eee;
+    border: 0;
+    margin: 20px-16px;
+    color: black;*/
+
+}
